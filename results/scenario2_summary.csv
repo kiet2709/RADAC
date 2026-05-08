@@ -1,0 +1,7 @@
+model,n,accuracy,false_allow_rate,false_deny_rate,n_allow,n_deny,n_obligations,adaptability,consistency,mean_risk
+MAC,16,0.75,1.0,0.0,16,0,0,0.0,1.0,0.0
+DAC,16,0.75,1.0,0.0,16,0,0,0.0,1.0,0.0
+RBAC,16,0.75,1.0,0.0,16,0,0,0.0,1.0,0.0
+ABAC,16,0.75,1.0,0.0,16,0,0,0.0,1.0,0.0
+RADAC,16,0.75,1.0,0.0,0,0,16,0.0,1.0,37.88
+Improved-RADAC,16,1.0,0.0,0.0,0,4,12,0.0667,0.5,48.61
