@@ -50,7 +50,7 @@ combine_RADAC/
 │   └── mission_graph.json          # MDG used by Improved RADAC in S2
 ├── results/                        # CSV outputs (created at runtime)
 ├── docs/
-│   └── explanation.md              # plain-English walkthrough
+│   └── paper                       # document related
 ├── tests/
 │   ├── test_models.py
 │   └── test_scenarios.py
